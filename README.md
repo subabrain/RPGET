@@ -19,5 +19,4 @@ You now can set Adminrights to your .exe File - but its still under development 
 # Known Bugs:
 
 1. Sometimes it can be a false/positive on some Anti Virus Program... this may be an problem when setting a icon file ... (try virustotal for that)
-2. Further there is the Problem with Adminrights - this maybe run into false/positives
-3. A stable Version of RPGET is still under development
+2. A stable Version of RPGET is still under development
