@@ -14,7 +14,7 @@ Robert Beran
 
 # New things in RPGETv4 Beta
 
-You now can set Adminrights to your .exe File - but its still under development because there are some malware scanners which are do a false positive ...
+You now can set Adminrights to your .exe File - but its still under development...
 
 # Known Bugs:
 
