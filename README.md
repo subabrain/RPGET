@@ -30,5 +30,7 @@ if you want to spread your program - please note the following:
 you need the following extensions installed on your Windows Version:
 
 https://www.microsoft.com/de-de/download/details.aspx?id=5555
+
 https://www.microsoft.com/de-de/download/details.aspx?id=30679
+
 https://go.microsoft.com/fwlink/?LinkId=746571
