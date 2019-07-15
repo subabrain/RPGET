@@ -15,7 +15,7 @@ Robert Beran
 
 # Known Bugs:
 
-1. Sometimes it can be a false/positive on some Anti Virus Program... this may be an problem when setting a icon file ... (try virustotal for that and try to contact the Vendor to take you out from the signature db) - For this look here: https://github.com/subabrain/RPGET/wiki/Publish-with-RPGET
+1. Sometimes it can be a false/positive on some Anti Virus Program... - For this look here: https://github.com/subabrain/RPGET/wiki/Publish-with-RPGET
 
 2. A stable Version of RPGET is still under development
 
